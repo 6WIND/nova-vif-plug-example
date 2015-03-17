@@ -1,0 +1,6 @@
+[Filters]
+brctl: CommandFilter, brctl, root
+ovs-vsctl: CommandFilter, ovs-vsctl, root
+tee: CommandFilter, tee, root
+ip: CommandFilter, ip, root
+sysctl: CommandFilter, sysctl, root
